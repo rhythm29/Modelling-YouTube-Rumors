@@ -1,0 +1,1246 @@
+=== Run information ===
+
+Scheme:weka.classifiers.bayes.NaiveBayes 
+Relation:     wekaUnigram
+Instances:    283
+Attributes:   201
+[list of attributes omitted]
+Test mode:5-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+Naive Bayes Classifier
+
+                  Class
+Attribute          fact  rumour
+                 (0.56)  (0.44)
+================================
+sci_w
+  mean             0.075       0
+  std. dev.       0.2634  0.1667
+  weight sum         160     123
+  precision            1       1
+
+ help_w
+  mean             0.075   0.065
+  std. dev.       0.2634  0.2466
+  weight sum         160     123
+  precision            1       1
+
+ show_w
+  mean            0.1375  0.2114
+  std. dev.       0.3444  0.4083
+  weight sum         160     123
+  precision            1       1
+
+ becaus_w
+  mean            0.0438   0.065
+  std. dev.       0.2045  0.2466
+  weight sum         160     123
+  precision            1       1
+
+ malays_w
+  mean            0.1188  0.1545
+  std. dev.       0.3235  0.3614
+  weight sum         160     123
+  precision            1       1
+
+ four_w
+  mean              0.05  0.0407
+  std. dev.       0.2179  0.1975
+  weight sum         160     123
+  precision            1       1
+
+ report_w
+  mean            0.0625  0.1138
+  std. dev.       0.2421  0.3176
+  weight sum         160     123
+  precision            1       1
+
+ radio_w
+  mean            0.0625   0.065
+  std. dev.       0.2421  0.2466
+  weight sum         160     123
+  precision            1       1
+
+ follow_w
+  mean               0.2  0.2439
+  std. dev.          0.4  0.4294
+  weight sum         160     123
+  precision            1       1
+
+ auth_w
+  mean            0.0375  0.0569
+  std. dev.         0.19  0.2317
+  weight sum         160     123
+  precision            1       1
+
+ find_w
+  mean            0.0688  0.0732
+  std. dev.        0.253  0.2604
+  weight sum         160     123
+  precision            1       1
+
+ ground_w
+  mean            0.0375  0.0244
+  std. dev.         0.19  0.1667
+  weight sum         160     123
+  precision            1       1
+
+ tim_w
+  mean            0.1813   0.122
+  std. dev.       0.3852  0.3272
+  weight sum         160     123
+  precision            1       1
+
+ much_w
+  mean            0.0688   0.065
+  std. dev.        0.253  0.2466
+  weight sum         160     123
+  precision            1       1
+
+ young_w
+  mean            0.0375  0.0325
+  std. dev.         0.19  0.1774
+  weight sum         160     123
+  precision            1       1
+
+ day_w
+  mean               0.1  0.1301
+  std. dev.          0.3  0.3364
+  weight sum         160     123
+  precision            1       1
+
+ barack_w
+  mean             0.025   0.122
+  std. dev.       0.1667  0.3272
+  weight sum         160     123
+  precision            1       1
+
+ wer_w
+  mean            0.0563  0.0894
+  std. dev.       0.2304  0.2854
+  weight sum         160     123
+  precision            1       1
+
+ scot_w
+  mean             0.125  0.1138
+  std. dev.       0.3307  0.3176
+  weight sum         160     123
+  precision            1       1
+
+ black_w
+  mean            0.0313  0.0488
+  std. dev.        0.174  0.2154
+  weight sum         160     123
+  precision            1       1
+
+ sens_w
+  mean            0.0563  0.0163
+  std. dev.       0.2304  0.1667
+  weight sum         160     123
+  precision            1       1
+
+ fin_w
+  mean            0.0313  0.0894
+  std. dev.        0.174  0.2854
+  weight sum         160     123
+  precision            1       1
+
+ spec_w
+  mean            0.0875  0.0976
+  std. dev.       0.2826  0.2967
+  weight sum         160     123
+  precision            1       1
+
+ hav_w
+  mean             0.175  0.1707
+  std. dev.         0.38  0.3763
+  weight sum         160     123
+  precision            1       1
+
+ satellit_w
+  mean             0.075  0.0488
+  std. dev.       0.2634  0.2154
+  weight sum         160     123
+  precision            1       1
+
+ real_w
+  mean            0.0813  0.0976
+  std. dev.       0.2732  0.2967
+  weight sum         160     123
+  precision            1       1
+
+ march_w
+  mean             0.025   0.065
+  std. dev.       0.1667  0.2466
+  weight sum         160     123
+  precision            1       1
+
+ yo_w
+  mean            0.1625  0.1707
+  std. dev.       0.3689  0.3763
+  weight sum         160     123
+  precision            1       1
+
+ get_w
+  mean            0.1125  0.1545
+  std. dev.        0.316  0.3614
+  weight sum         160     123
+  precision            1       1
+
+ read_w
+  mean            0.0625   0.065
+  std. dev.       0.2421  0.2466
+  weight sum         160     123
+  precision            1       1
+
+ mor_w
+  mean            0.2563  0.3171
+  std. dev.       0.4366  0.4653
+  weight sum         160     123
+  precision            1       1
+
+ watch_w
+  mean            0.1625  0.0976
+  std. dev.       0.3689  0.2967
+  weight sum         160     123
+  precision            1       1
+
+ passeng_w
+  mean             0.025   0.065
+  std. dev.       0.1667  0.2466
+  weight sum         160     123
+  precision            1       1
+
+ dat_w
+  mean            0.0625   0.065
+  std. dev.       0.2421  0.2466
+  weight sum         160     123
+  precision            1       1
+
+ amazon_w
+  mean            0.0375  0.0569
+  std. dev.         0.19  0.2317
+  weight sum         160     123
+  precision            1       1
+
+ facebook_w
+  mean            0.0813   0.122
+  std. dev.       0.2732  0.3272
+  weight sum         160     123
+  precision            1       1
+
+ know_w
+  mean            0.0625  0.1138
+  std. dev.       0.2421  0.3176
+  weight sum         160     123
+  precision            1       1
+
+ govern_w
+  mean            0.0563  0.0325
+  std. dev.       0.2304  0.1774
+  weight sum         160     123
+  precision            1       1
+
+ neut_w
+  mean            0.1313       0
+  std. dev.       0.3377  0.1667
+  weight sum         160     123
+  precision            1       1
+
+ world_w
+  mean            0.0313  0.0813
+  std. dev.        0.174  0.2733
+  weight sum         160     123
+  precision            1       1
+
+ thes_w
+  mean            0.0438   0.065
+  std. dev.       0.2045  0.2466
+  weight sum         160     123
+  precision            1       1
+
+ ther_w
+  mean            0.0688  0.0976
+  std. dev.        0.253  0.2967
+  weight sum         160     123
+  precision            1       1
+
+ success_w
+  mean             0.125  0.0407
+  std. dev.       0.3307  0.1975
+  weight sum         160     123
+  precision            1       1
+
+ michael_w
+  mean            0.0688  0.0813
+  std. dev.        0.253  0.2733
+  weight sum         160     123
+  precision            1       1
+
+ resolv_w
+  mean            0.0563  0.0325
+  std. dev.       0.2304  0.1774
+  weight sum         160     123
+  precision            1       1
+
+ found_w
+  mean            0.0438  0.0813
+  std. dev.       0.2045  0.2733
+  weight sum         160     123
+  precision            1       1
+
+ view_w
+  mean            0.0813  0.0407
+  std. dev.       0.2732  0.1975
+  weight sum         160     123
+  precision            1       1
+
+ pleas_w
+  mean            0.0688  0.0569
+  std. dev.        0.253  0.2317
+  weight sum         160     123
+  precision            1       1
+
+ sev_w
+  mean            0.0688  0.0569
+  std. dev.        0.253  0.2317
+  weight sum         160     123
+  precision            1       1
+
+ whil_w
+  mean            0.0438  0.0732
+  std. dev.       0.2045  0.2604
+  weight sum         160     123
+  precision            1       1
+
+ right_w
+  mean            0.0375  0.0488
+  std. dev.         0.19  0.2154
+  weight sum         160     123
+  precision            1       1
+
+ list_w
+  mean            0.0625  0.0732
+  std. dev.       0.2421  0.2604
+  weight sum         160     123
+  precision            1       1
+
+ direct_w
+  mean            0.0438  0.0569
+  std. dev.       0.2045  0.2317
+  weight sum         160     123
+  precision            1       1
+
+ sign_w
+  mean             0.075  0.0894
+  std. dev.       0.2634  0.2854
+  weight sum         160     123
+  precision            1       1
+
+ intern_w
+  mean              0.05  0.0732
+  std. dev.       0.2179  0.2604
+  weight sum         160     123
+  precision            1       1
+
+ video_w
+  mean            0.2563  0.2764
+  std. dev.       0.4366  0.4472
+  weight sum         160     123
+  precision            1       1
+
+ connect_w
+  mean            0.0688  0.0325
+  std. dev.        0.253  0.1774
+  weight sum         160     123
+  precision            1       1
+
+ traff_w
+  mean            0.0688   0.065
+  std. dev.        0.253  0.2466
+  weight sum         160     123
+  precision            1       1
+
+ nbc_w
+  mean            0.0125       0
+  std. dev.       0.1667  0.1667
+  weight sum         160     123
+  precision            1       1
+
+ ev_w
+  mean            0.1313  0.1138
+  std. dev.       0.3377  0.3176
+  weight sum         160     123
+  precision            1       1
+
+ said_w
+  mean            0.0938  0.1138
+  std. dev.       0.2915  0.3176
+  weight sum         160     123
+  precision            1       1
+
+ network_w
+  mean            0.0938  0.0325
+  std. dev.       0.2915  0.1774
+  weight sum         160     123
+  precision            1       1
+
+ lead_w
+  mean            0.0375  0.0976
+  std. dev.         0.19  0.2967
+  weight sum         160     123
+  precision            1       1
+
+ leak_w
+  mean            0.0063  0.2114
+  std. dev.       0.1667  0.4083
+  weight sum         160     123
+  precision            1       1
+
+ nee_w
+  mean            0.0625  0.0813
+  std. dev.       0.2421  0.2733
+  weight sum         160     123
+  precision            1       1
+
+ fox_w
+  mean             0.025  0.0244
+  std. dev.       0.1667  0.1667
+  weight sum         160     123
+  precision            1       1
+
+ moon_w
+  mean               0.2       0
+  std. dev.          0.4  0.1667
+  weight sum         160     123
+  precision            1       1
+
+ rel_w
+  mean            0.0563  0.0569
+  std. dev.       0.2304  0.2317
+  weight sum         160     123
+  precision            1       1
+
+ internet_w
+  mean            0.1313  0.0244
+  std. dev.       0.3377  0.1667
+  weight sum         160     123
+  precision            1       1
+
+ new_w
+  mean            0.2688  0.3171
+  std. dev.       0.4433  0.4653
+  weight sum         160     123
+  precision            1       1
+
+ net_w
+  mean               0.2       0
+  std. dev.          0.4  0.1667
+  weight sum         160     123
+  precision            1       1
+
+ islam_w
+  mean            0.0188  0.0813
+  std. dev.       0.1667  0.2733
+  weight sum         160     123
+  precision            1       1
+
+ reg_w
+  mean             0.075  0.0244
+  std. dev.       0.2634  0.1667
+  weight sum         160     123
+  precision            1       1
+
+ lun_w
+  mean            0.0938       0
+  std. dev.       0.2915  0.1667
+  weight sum         160     123
+  precision            1       1
+
+ med_w
+  mean            0.0688  0.0894
+  std. dev.        0.253  0.2854
+  weight sum         160     123
+  precision            1       1
+
+ investig_w
+  mean            0.0188  0.0813
+  std. dev.       0.1667  0.2733
+  weight sum         160     123
+  precision            1       1
+
+ mad_w
+  mean            0.0563   0.065
+  std. dev.       0.2304  0.2466
+  weight sum         160     123
+  precision            1       1
+
+ muslim_w
+  mean            0.0188   0.187
+  std. dev.       0.1667  0.3899
+  weight sum         160     123
+  precision            1       1
+
+ host_w
+  mean            0.0563  0.0488
+  std. dev.       0.2304  0.2154
+  weight sum         160     123
+  precision            1       1
+
+ 370_w
+  mean            0.0625   0.122
+  std. dev.       0.2421  0.3272
+  weight sum         160     123
+  precision            1       1
+
+ releas_w
+  mean             0.025  0.0894
+  std. dev.       0.1667  0.2854
+  weight sum         160     123
+  precision            1       1
+
+ post_w
+  mean              0.05  0.0894
+  std. dev.       0.2179  0.2854
+  weight sum         160     123
+  precision            1       1
+
+ becom_w
+  mean            0.0563  0.0732
+  std. dev.       0.2304  0.2604
+  weight sum         160     123
+  precision            1       1
+
+ shot_w
+  mean              0.05  0.0813
+  std. dev.       0.2179  0.2733
+  weight sum         160     123
+  precision            1       1
+
+ cop_w
+  mean            0.0125  0.0813
+  std. dev.       0.1667  0.2733
+  weight sum         160     123
+  precision            1       1
+
+ search_w
+  mean            0.0438  0.0407
+  std. dev.       0.2045  0.1975
+  weight sum         160     123
+  precision            1       1
+
+ last_w
+  mean            0.0563  0.0488
+  std. dev.       0.2304  0.2154
+  weight sum         160     123
+  precision            1       1
+
+ fre_w
+  mean            0.1125  0.1138
+  std. dev.        0.316  0.3176
+  weight sum         160     123
+  precision            1       1
+
+ launch_w
+  mean            0.1313  0.0244
+  std. dev.       0.3377  0.1667
+  weight sum         160     123
+  precision            1       1
+
+ country_w
+  mean             0.075  0.0407
+  std. dev.       0.2634  0.1975
+  weight sum         160     123
+  precision            1       1
+
+ could_w
+  mean            0.0813  0.0976
+  std. dev.       0.2732  0.2967
+  weight sum         160     123
+  precision            1       1
+
+ oc_w
+  mean            0.0125  0.0407
+  std. dev.       0.1667  0.1975
+  weight sum         160     123
+  precision            1       1
+
+ turn_w
+  mean             0.025  0.0732
+  std. dev.       0.1667  0.2604
+  weight sum         160     123
+  precision            1       1
+
+ turk_w
+  mean             0.025  0.0244
+  std. dev.       0.1667  0.1667
+  weight sum         160     123
+  precision            1       1
+
+ act_w
+  mean            0.0688  0.0813
+  std. dev.        0.253  0.2733
+  weight sum         160     123
+  precision            1       1
+
+ ov_w
+  mean            0.1313  0.1138
+  std. dev.       0.3377  0.3176
+  weight sum         160     123
+  precision            1       1
+
+ com_w
+  mean               0.1  0.1463
+  std. dev.          0.3  0.3534
+  weight sum         160     123
+  precision            1       1
+
+ produc_w
+  mean            0.0563  0.1138
+  std. dev.       0.2304  0.3176
+  weight sum         160     123
+  precision            1       1
+
+ op_w
+  mean            0.1438  0.0488
+  std. dev.       0.3508  0.2154
+  weight sum         160     123
+  precision            1       1
+
+ twit_w
+  mean            0.0625  0.1057
+  std. dev.       0.2421  0.3074
+  weight sum         160     123
+  precision            1       1
+
+ wil_w
+  mean            0.1875   0.122
+  std. dev.       0.3903  0.3272
+  weight sum         160     123
+  precision            1       1
+
+ som_w
+  mean             0.075  0.1301
+  std. dev.       0.2634  0.3364
+  weight sum         160     123
+  precision            1       1
+
+ system_w
+  mean            0.0438  0.0407
+  std. dev.       0.2045  0.1975
+  weight sum         160     123
+  precision            1       1
+
+ walt_w
+  mean            0.1375   0.122
+  std. dev.       0.3444  0.3272
+  weight sum         160     123
+  precision            1       1
+
+ pol_w
+  mean            0.1813  0.1301
+  std. dev.       0.3852  0.3364
+  weight sum         160     123
+  precision            1       1
+
+ sou_w
+  mean            0.0938  0.0813
+  std. dev.       0.2915  0.2733
+  weight sum         160     123
+  precision            1       1
+
+ carry_w
+  mean            0.0563  0.0325
+  std. dev.       0.2304  0.1774
+  weight sum         160     123
+  precision            1       1
+
+ airlin_w
+  mean            0.1125   0.122
+  std. dev.        0.316  0.3272
+  weight sum         160     123
+  precision            1       1
+
+ miss_w
+  mean              0.25  0.1057
+  std. dev.        0.433  0.3074
+  weight sum         160     123
+  precision            1       1
+
+ payload_w
+  mean            0.0563       0
+  std. dev.       0.2304  0.1667
+  weight sum         160     123
+  precision            1       1
+
+ speak_w
+  mean            0.0375  0.0407
+  std. dev.         0.19  0.1975
+  weight sum         160     123
+  precision            1       1
+
+ discuss_w
+  mean              0.05  0.0732
+  std. dev.       0.2179  0.2604
+  weight sum         160     123
+  precision            1       1
+
+ would_w
+  mean             0.075   0.065
+  std. dev.       0.2634  0.2466
+  weight sum         160     123
+  precision            1       1
+
+ commun_w
+  mean            0.0875  0.0488
+  std. dev.       0.2826  0.2154
+  weight sum         160     123
+  precision            1       1
+
+ spac_w
+  mean            0.1188       0
+  std. dev.       0.3235  0.1667
+  weight sum         160     123
+  precision            1       1
+
+ support_w
+  mean               0.1   0.122
+  std. dev.          0.3  0.3272
+  weight sum         160     123
+  precision            1       1
+
+ visit_w
+  mean            0.1188  0.0488
+  std. dev.       0.3235  0.2154
+  weight sum         160     123
+  precision            1       1
+
+ two_w
+  mean            0.0938  0.0813
+  std. dev.       0.2915  0.2733
+  weight sum         160     123
+  precision            1       1
+
+ avail_w
+  mean            0.0563  0.0813
+  std. dev.       0.2304  0.2733
+  weight sum         160     123
+  precision            1       1
+
+ appl_w
+  mean            0.0063  0.0813
+  std. dev.       0.1667  0.2733
+  weight sum         160     123
+  precision            1       1
+
+ includ_w
+  mean            0.1125  0.1057
+  std. dev.        0.316  0.3074
+  weight sum         160     123
+  precision            1       1
+
+ subscrib_w
+  mean             0.175  0.1301
+  std. dev.         0.38  0.3364
+  weight sum         160     123
+  precision            1       1
+
+ oth_w
+  mean            0.1188   0.122
+  std. dev.       0.3235  0.3272
+  weight sum         160     123
+  precision            1       1
+
+ flight_w
+  mean            0.1188  0.1545
+  std. dev.       0.3235  0.3614
+  weight sum         160     123
+  precision            1       1
+
+ form_w
+  mean            0.0625  0.0894
+  std. dev.       0.2421  0.2854
+  weight sum         160     123
+  precision            1       1
+
+ memb_w
+  mean            0.0438   0.065
+  std. dev.       0.2045  0.2466
+  weight sum         160     123
+  precision            1       1
+
+ chandraya_w
+  mean            0.0875       0
+  std. dev.       0.2826  0.1667
+  weight sum         160     123
+  precision            1       1
+
+ peopl_w
+  mean            0.1188  0.0894
+  std. dev.       0.3235  0.2854
+  weight sum         160     123
+  precision            1       1
+
+ company_w
+  mean            0.0625  0.0407
+  std. dev.       0.2421  0.1975
+  weight sum         160     123
+  precision            1       1
+
+ 6_w
+  mean            0.0125  0.1138
+  std. dev.       0.1667  0.3176
+  weight sum         160     123
+  precision            1       1
+
+ back_w
+  mean             0.025  0.0732
+  std. dev.       0.1667  0.2604
+  weight sum         160     123
+  precision            1       1
+
+ part_w
+  mean              0.05   0.065
+  std. dev.       0.2179  0.2466
+  weight sum         160     123
+  precision            1       1
+
+ link_w
+  mean            0.1188  0.1057
+  std. dev.       0.3235  0.3074
+  weight sum         160     123
+  precision            1       1
+
+ 2014_w
+  mean            0.0438  0.0569
+  std. dev.       0.2045  0.2317
+  weight sum         160     123
+  precision            1       1
+
+ ear_w
+  mean            0.0438  0.0488
+  std. dev.       0.2045  0.2154
+  weight sum         160     123
+  precision            1       1
+
+ pilot_w
+  mean            0.0063  0.0407
+  std. dev.       0.1667  0.1975
+  weight sum         160     123
+  precision            1       1
+
+ shoot_w
+  mean            0.1125  0.1057
+  std. dev.        0.316  0.3074
+  weight sum         160     123
+  precision            1       1
+
+ join_w
+  mean            0.0875  0.0407
+  std. dev.       0.2826  0.1975
+  weight sum         160     123
+  precision            1       1
+
+ look_w
+  mean               0.1  0.1626
+  std. dev.          0.3   0.369
+  weight sum         160     123
+  precision            1       1
+
+ hour_w
+  mean              0.05  0.0732
+  std. dev.       0.2179  0.2604
+  weight sum         160     123
+  precision            1       1
+
+ provid_w
+  mean            0.1063  0.0488
+  std. dev.       0.3082  0.2154
+  weight sum         160     123
+  precision            1       1
+
+ might_w
+  mean            0.0688  0.0569
+  std. dev.        0.253  0.2317
+  weight sum         160     123
+  precision            1       1
+
+ work_w
+  mean            0.0625  0.0407
+  std. dev.       0.2421  0.1975
+  weight sum         160     123
+  precision            1       1
+
+ bef_w
+  mean            0.0625  0.1138
+  std. dev.       0.2421  0.3176
+  weight sum         160     123
+  precision            1       1
+
+ see_w
+  mean            0.0563  0.0813
+  std. dev.       0.2304  0.2733
+  weight sum         160     123
+  precision            1       1
+
+ us_w
+  mean            0.2375  0.2927
+  std. dev.       0.4256   0.455
+  weight sum         160     123
+  precision            1       1
+
+ air_w
+  mean            0.0375  0.1057
+  std. dev.         0.19  0.3074
+  weight sum         160     123
+  precision            1       1
+
+ record_w
+  mean            0.0313  0.0732
+  std. dev.        0.174  0.2604
+  weight sum         160     123
+  precision            1       1
+
+ near_w
+  mean            0.0625  0.0325
+  std. dev.       0.2421  0.1774
+  weight sum         160     123
+  precision            1       1
+
+ cal_w
+  mean            0.0313  0.0894
+  std. dev.        0.174  0.2854
+  weight sum         160     123
+  precision            1       1
+
+ ful_w
+  mean            0.0813   0.065
+  std. dev.       0.2732  0.2466
+  weight sum         160     123
+  precision            1       1
+
+ control_w
+  mean            0.0688  0.0569
+  std. dev.        0.253  0.2317
+  weight sum         160     123
+  precision            1       1
+
+ rad_w
+  mean            0.0188  0.1382
+  std. dev.       0.1667  0.3451
+  weight sum         160     123
+  precision            1       1
+
+ want_w
+  mean            0.0813  0.0813
+  std. dev.       0.2732  0.2733
+  weight sum         160     123
+  precision            1       1
+
+ al_w
+  mean            0.1938   0.252
+  std. dev.       0.3952  0.4342
+  weight sum         160     123
+  precision            1       1
+
+ high_w
+  mean              0.05  0.0325
+  std. dev.       0.2179  0.1774
+  weight sum         160     123
+  precision            1       1
+
+ say_w
+  mean            0.0688  0.0732
+  std. dev.        0.253  0.2604
+  weight sum         160     123
+  precision            1       1
+
+ ar_w
+  mean            0.2188  0.2033
+  std. dev.       0.4134  0.4024
+  weight sum         160     123
+  precision            1       1
+
+ io_w
+  mean            0.0063   0.065
+  std. dev.       0.1667  0.2466
+  weight sum         160     123
+  precision            1       1
+
+ ind_w
+  mean            0.2125  0.0813
+  std. dev.       0.4091  0.2733
+  weight sum         160     123
+  precision            1       1
+
+ slag_w
+  mean            0.0313   0.065
+  std. dev.        0.174  0.2466
+  weight sum         160     123
+  precision            1       1
+
+ check_w
+  mean            0.0688  0.0813
+  std. dev.        0.253  0.2733
+  weight sum         160     123
+  precision            1       1
+
+ disappear_w
+  mean            0.0438  0.0813
+  std. dev.       0.2045  0.2733
+  weight sum         160     123
+  precision            1       1
+
+ tak_w
+  mean            0.1125  0.1138
+  std. dev.        0.316  0.3176
+  weight sum         160     123
+  precision            1       1
+
+ shar_w
+  mean            0.0438  0.0976
+  std. dev.       0.2045  0.2967
+  weight sum         160     123
+  precision            1       1
+
+ presid_w
+  mean            0.0438   0.065
+  std. dev.       0.2045  0.2466
+  weight sum         160     123
+  precision            1       1
+
+ pat_w
+  mean                 0  0.0325
+  std. dev.       0.1667  0.1774
+  weight sum         160     123
+  precision            1       1
+
+ min_w
+  mean            0.0438  0.0488
+  std. dev.       0.2045  0.2154
+  weight sum         160     123
+  precision            1       1
+
+ obam_w
+  mean            0.0563  0.2358
+  std. dev.       0.2304  0.4245
+  weight sum         160     123
+  precision            1       1
+
+ lik_w
+  mean            0.2438  0.2276
+  std. dev.       0.4293  0.4193
+  weight sum         160     123
+  precision            1       1
+
+ also_w
+  mean               0.1  0.0976
+  std. dev.          0.3  0.2967
+  weight sum         160     123
+  precision            1       1
+
+ liv_w
+  mean             0.075  0.0976
+  std. dev.       0.2634  0.2967
+  weight sum         160     123
+  precision            1       1
+
+ 5_w
+  mean            0.0125  0.1463
+  std. dev.       0.1667  0.3534
+  weight sum         160     123
+  precision            1       1
+
+ nat_w
+  mean             0.075  0.0488
+  std. dev.       0.2634  0.2154
+  weight sum         160     123
+  precision            1       1
+
+ aft_w
+  mean            0.1438  0.2276
+  std. dev.       0.3508  0.4193
+  weight sum         160     123
+  precision            1       1
+
+ channel_w
+  mean            0.0938  0.0813
+  std. dev.       0.2915  0.2733
+  weight sum         160     123
+  precision            1       1
+
+ polit_w
+  mean            0.0813  0.0407
+  std. dev.       0.2732  0.1975
+  weight sum         160     123
+  precision            1       1
+
+ stat_w
+  mean              0.05  0.0569
+  std. dev.       0.2179  0.2317
+  weight sum         160     123
+  precision            1       1
+
+ mat_w
+  mean            0.0375  0.0407
+  std. dev.         0.19  0.1975
+  weight sum         160     123
+  precision            1       1
+
+ may_w
+  mean              0.05   0.122
+  std. dev.       0.2179  0.3272
+  weight sum         160     123
+  precision            1       1
+
+ iphon_w
+  mean            0.0125  0.2602
+  std. dev.       0.1667  0.4387
+  weight sum         160     123
+  precision            1       1
+
+ publ_w
+  mean            0.0375   0.065
+  std. dev.         0.19  0.2466
+  weight sum         160     123
+  precision            1       1
+
+ fcc_w
+  mean            0.0813  0.0081
+  std. dev.       0.2732  0.1667
+  weight sum         160     123
+  precision            1       1
+
+ plan_w
+  mean            0.0563  0.1382
+  std. dev.       0.2304  0.3451
+  weight sum         160     123
+  precision            1       1
+
+ charleston_w
+  mean            0.0313  0.0407
+  std. dev.        0.174  0.1975
+  weight sum         160     123
+  precision            1       1
+
+ tyt_w
+  mean            0.0313  0.0163
+  std. dev.        0.174  0.1667
+  weight sum         160     123
+  precision            1       1
+
+ mak_w
+  mean            0.1438  0.1138
+  std. dev.       0.3508  0.3176
+  weight sum         160     123
+  precision            1       1
+
+ maj_w
+  mean            0.0688  0.0407
+  std. dev.        0.253  0.1975
+  weight sum         160     123
+  precision            1       1
+
+ charg_w
+  mean            0.0813  0.0407
+  std. dev.       0.2732  0.1975
+  weight sum         160     123
+  precision            1       1
+
+ man_w
+  mean            0.0813   0.065
+  std. dev.       0.2732  0.2466
+  weight sum         160     123
+  precision            1       1
+
+ wheth_w
+  mean              0.05  0.0407
+  std. dev.       0.2179  0.1975
+  weight sum         160     123
+  precision            1       1
+
+ orbit_w
+  mean            0.0875       0
+  std. dev.       0.2826  0.1667
+  weight sum         160     123
+  precision            1       1
+
+ think_w
+  mean              0.05  0.0569
+  std. dev.       0.2179  0.2317
+  weight sum         160     123
+  precision            1       1
+
+ youtub_w
+  mean            0.0438  0.0488
+  std. dev.       0.2045  0.2154
+  weight sum         160     123
+  precision            1       1
+
+ inform_w
+  mean              0.05  0.0813
+  std. dev.       0.2179  0.2733
+  weight sum         160     123
+  precision            1       1
+
+ carolin_w
+  mean              0.05   0.065
+  std. dev.       0.2179  0.2466
+  weight sum         160     123
+  precision            1       1
+
+ thi_w
+  mean            0.2813  0.4146
+  std. dev.       0.4496  0.4927
+  weight sum         160     123
+  precision            1       1
+
+ first_w
+  mean            0.1563  0.1138
+  std. dev.       0.3631  0.3176
+  weight sum         160     123
+  precision            1       1
+
+ talk_w
+  mean            0.0563  0.1057
+  std. dev.       0.2304  0.3074
+  weight sum         160     123
+  precision            1       1
+
+ latest_w
+  mean            0.0688  0.0976
+  std. dev.        0.253  0.2967
+  weight sum         160     123
+  precision            1       1
+
+
+
+Time taken to build model: 0.07 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         205               72.4382 %
+Incorrectly Classified Instances        78               27.5618 %
+Kappa statistic                          0.4454
+Mean absolute error                      0.2788
+Root mean squared error                  0.487 
+Relative absolute error                 56.7255 %
+Root relative squared error             98.2422 %
+Total Number of Instances              283     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.719     0.268      0.777     0.719     0.747      0.81      fact
+                 0.732     0.281      0.667     0.732     0.698      0.81      rumour
+Weighted Avg.    0.724     0.274      0.729     0.724     0.725      0.81 
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 115  45 |   a =  fact
+  33  90 |   b =  rumour
+
